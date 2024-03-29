@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Stephan F</h1>
-<h3 align="center">I'M a passionate MERN Stack Developer from India.I'M a fresher looking for software developer role.</h3>
+<h3 align="center">I'M a passionate MERN Stack Developer from India.
+  I'M a fresher looking for software developer role.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stephan231&label=Profile%20views&color=0e75b6&style=flat" alt="stephan231" /> </p>
 
@@ -15,10 +16,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/stephan f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stephan f" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/stephan-f/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stephan f" height="30" width="40" /></a>
 <a href="https://instagram.com/mysterious_king_23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mysterious_king_23" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/stephan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="stephan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/stephan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="stephan" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/francisstephan_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="stephan" height="30" width="40" /></a>
+<a href="https://leetcode.com/user8385xA/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="stephan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
