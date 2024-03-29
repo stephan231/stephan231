@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Stephan F</h1>
-<h3 align="center">I'M a passionate MERN Stack Developer from India.</h3>
-
+<h3 align="center">I'M a passionate MERN Stack Developer from India.I'M a fresher looking for software developer role.</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stephan231&label=Profile%20views&color=0e75b6&style=flat" alt="stephan231" /> </p>
 
 - 🔭 I’m currently working on [DSA IN C](https://github.com/stephan231/DSA-IN-C)
